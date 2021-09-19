@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @deoc 
+- 👀 I’m interested in Cryptomining
+- 🌱 I’m currently learning GPU LHR Limitation OFF
+- 💞️ I’m looking to collaborate on NVIDIA GPU LHR 
+- 📫 How to reach me here ;)
